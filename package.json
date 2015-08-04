@@ -1,0 +1,32 @@
+{
+  "name": "systemjs-reloader",
+  "version": "0.1.0",
+  "description": "System.js and StealJS hot module reloader",
+  "main": "systemjs-reloader.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/whitecolor/systemjs-reloader"
+  },
+  "keywords": [
+    "systemjs",
+    "stealjs",
+    "system",
+    "steal",
+    "livereload",
+    "reload"
+  ],
+  "author": "whitecolor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitecolor/systemjs-reloader/issues"
+  },
+  "homepage": "https://github.com/whitecolor/systemjs-reloader",
+  "devDependencies": {
+    "steal": "^0.9.1",
+    "mocha": "^2.2.4",
+    "chai": "^2.2.0"
+  }
+}
